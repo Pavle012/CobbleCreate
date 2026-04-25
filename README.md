@@ -37,6 +37,3 @@ Experience Pokémon in a world designed for builders:
 
 ## 📜 Dependencies
 This pack is built on **NeoForge 1.21.1**. The `.mrpack` format will automatically handle downloading the required mod files from Modrinth.
-
----
-*Created by Pavle012*
