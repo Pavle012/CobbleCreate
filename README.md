@@ -1,8 +1,8 @@
-# Cobblemon x Create 2.0
+# CobbleCreate
 
 ![Modpack Banner](https://cdn.modrinth.com/data/oWaK0Q19/images/b0f37794880f9da33cb27db1f8782ef40a6611df.png)
 
-Bringing the best of technology and creature collection together. **Cobblemon x Create** is a curated modpack for Minecraft 1.21.1 that blends the intricate mechanical engineering of the **Create** ecosystem with the immersive Pokémon experience of **Cobblemon**.
+Bringing the best of technology and creature collection together. **CobbleCreate** is a curated modpack for Minecraft 1.21.1 that blends the intricate mechanical engineering of the **Create** ecosystem with the immersive Pokémon experience of **Cobblemon**.
 
 ## 🚀 Key Features
 
