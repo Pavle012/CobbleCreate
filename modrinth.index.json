@@ -6,21 +6,6 @@
   "summary": "STILL bringing the best Minecraft Mods together :)",
   "files": [
     {
-      "path": "mods/rctapi-neoforge-1.21.1-0.14.5-beta.jar",
-      "hashes": {
-        "sha1": "6f0b511797df0bf035234e0eaf196996d34bf6d0",
-        "sha512": "9478932aec3493c262d8f8a211546cd0bebf5e2cf7907247bead80929d7b11daa5b77dcdf14e65f24ccbf3f569bc1c543bf7c8a449938ac029ee86033739051c"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/CBfM2yw7/versions/PPK1g5lk/rctapi-neoforge-1.21.1-0.14.5-beta.jar"
-      ],
-      "fileSize": 219837
-    },
-    {
       "path": "shaderpacks/CR5.3_ArenaDark_Lite.zip",
       "hashes": {
         "sha512": "57fc12546636403971b0ef842755bfc8c80fc08f6843e55660b5d2c72db6e682b34cbd38c27148b5835c6d634def16fa78f56df20cb7fb498447effd28f288b4",
@@ -94,21 +79,6 @@
         "https://cdn.modrinth.com/data/ccKDOlHs/versions/NMCHU6DZ/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar"
       ],
       "fileSize": 1221583
-    },
-    {
-      "path": "mods/rctmod-neoforge-1.21.1-0.17.4-beta.jar",
-      "hashes": {
-        "sha1": "13e7d2a4d663c8c868a87c91fb1c116f60e407e3",
-        "sha512": "6a5a3a6db8f0afef20c5404acaf86464367b95219a6adae76c3551db407fd4a4d14b24fc94c35259667aedca136fda80c2469fc109524f22092c21de4ad65366"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/lRwTUnD7/versions/62LcpnUU/rctmod-neoforge-1.21.1-0.17.4-beta.jar"
-      ],
-      "fileSize": 4741201
     },
     {
       "path": "mods/tectonic-3.0.19-neoforge-1.21.1.jar",
@@ -681,21 +651,6 @@
       "fileSize": 1080389
     },
     {
-      "path": "mods/fightorflight-neoforge-0.10.5.jar",
-      "hashes": {
-        "sha512": "deff8df91e98366d8340f2c462a389da7b6ee3ea0157933e44464ff3254e9e08e56ee1038a5fe444094ae625929d6b86eacd9e3277a4c16ef83f4b9e7f78dc63",
-        "sha1": "93802b2b2c092483089aeb6ec64c724ca1b2799e"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/cTdIg5HZ/versions/51u1DYkU/fightorflight-neoforge-0.10.5.jar"
-      ],
-      "fileSize": 1406142
-    },
-    {
       "path": "mods/storage-drawers-create-compat-1.0.1.jar",
       "hashes": {
         "sha1": "721fbc60d3df917b587f5d6e65cd39960b297bd0",
@@ -979,21 +934,6 @@
         "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/SVhR1m5N/athena-neoforge-1.21-4.0.2.jar"
       ],
       "fileSize": 92698
-    },
-    {
-      "path": "resourcepacks/RCT Trainers+ [1.6] v2.1.zip",
-      "hashes": {
-        "sha512": "3b3e22864e14661652bac6632023d3294fccc84d66b54e0b6e365f1fa5d2c901ec5491662c7de6252cae6b63c777c67d992268c6411841d576a14252a1a4ba4e",
-        "sha1": "a9fc89788c172f5963adbeabcfb688846e5e46e4"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/ARGDWSQq/versions/2PwkXMie/RCT%20Trainers%2B%20%5B1.6%5D%20v2.1.zip"
-      ],
-      "fileSize": 4905355
     },
     {
       "path": "mods/supermartijn642corelib-1.1.19-neoforge-mc1.21.jar",
@@ -1729,6 +1669,81 @@
         "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar"
       ],
       "fileSize": 19123767
+    },
+    {
+      "path": "mods/DAP ur Homie!2.2.1.jar",
+      "hashes": {
+        "sha1": "e692852c66313a766438b605a59e302815fe6837",
+        "sha512": "e22ace17b2944c7596623e81bab90be89b15bb482eaeaffc666a83a573376e8ee1d0836db85548d83ce776f0209c9de162549ee2b9f6fb4497352cce10ca3c1f"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/V3QHTHDA/versions/dfSSTarO/DAP%20ur%20Homie%212.2.1.jar"
+      ],
+      "fileSize": 7117613
+    },
+    {
+      "path": "mods/cobbledgacha-neoforge-1.21.1-3.0.3.jar",
+      "hashes": {
+        "sha1": "a2450dd08503743f4ac313f67f6007f7161afae9",
+        "sha512": "a128ff83b2a59ee0624a9c09a40dae7cc33a64600d8a4ebf8ffbca05f324ed5a9275e058ee629a2bbca7b35b3d40e28ad11cb2f439b609144c90c2e5bf986872"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/c1OpnQs3/versions/S1kcfrxR/cobbledgacha-neoforge-1.21.1-3.0.3.jar"
+      ],
+      "fileSize": 1114087
+    },
+    {
+      "path": "mods/waystones-neoforge-1.21.1-21.1.30.jar",
+      "hashes": {
+        "sha1": "a1cc8995fb6ca9630f7a7f0bd1279312c7574855",
+        "sha512": "d3a4f8e1fac5521dd445e1cc9891ef428d7efa61aabdc1fbe5ea6390ecdee012b96219daea94a8f4f8329894d239d42ceb3d7b705477a47babcb45b5cf49f0e7"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/LOpKHB2A/versions/ylfzux81/waystones-neoforge-1.21.1-21.1.30.jar"
+      ],
+      "fileSize": 877356
+    },
+    {
+      "path": "mods/balm-neoforge-1.21.1-21.0.57.jar",
+      "hashes": {
+        "sha1": "471e60cbd2ce9753315e763772a8c55fccf843b8",
+        "sha512": "433178c6c70a87dfe0b057323b3df4dfc00aca317d37634bfc53ff6dfa6cb8601e9d9fe773cb3491bbde46489d8b918f58ed1ae735357106466cfbc594334645"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/MBAkmtvl/versions/XC1JUHmA/balm-neoforge-1.21.1-21.0.57.jar"
+      ],
+      "fileSize": 701108
+    },
+    {
+      "path": "mods/DiscordIntegration-1.21.1-4.0.0.jar",
+      "hashes": {
+        "sha1": "ce907391d5711ca6e8152b4037cb5699161eb52e",
+        "sha512": "3f237610722b490c475b4d92215bd395d07a6d4d065252af90c0232bd5d11fa959c7605b8efb18dcd1605cb74865edc8b118ac559c5577f45750579d9194f0bd"
+      },
+      "env": {
+        "server": "required",
+        "client": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/wdZidyDu/versions/K3PwBmqw/DiscordIntegration-1.21.1-4.0.0.jar"
+      ],
+      "fileSize": 10636122
     }
   ],
   "dependencies": {
