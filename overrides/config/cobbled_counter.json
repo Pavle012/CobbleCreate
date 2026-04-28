@@ -1,7 +1,0 @@
-{
-  "ignoreFormFor": [],
-  "noBroadcastFor": [],
-  "minimumStreakForBroadcast": 1,
-  "broadcastLocation": "CHAT",
-  "debug": false
-}
