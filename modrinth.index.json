@@ -546,21 +546,6 @@
       "fileSize": 115255
     },
     {
-      "path": "mods/Create Encased-1.21.1-1.8-ht1.jar",
-      "hashes": {
-        "sha512": "0eaa68c5e4f9579f31713261617ee406c723d11b877255a0dc0891cdd56f742827a35f0a5d86b608ad67d6de7f6b13e1b21007c7f8038656da5499f2b2de3a26",
-        "sha1": "97984899c10cbd792b66c5fbc6f51f22ff6be832"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/hSSqdyU1/versions/SeSZKagl/Create%20Encased-1.21.1-1.8-ht1.jar"
-      ],
-      "fileSize": 2395148
-    },
-    {
       "path": "mods/counter-neoforge-1.7.1-1.9.0.jar",
       "hashes": {
         "sha512": "59ce75ffc30ccd9e6267d1a08dbb6b73ff25062ed1e08e5e5b9c6d4a222bd47c4797755dc59d579e677088e36d0ebc148131d90b3668b3b30a0693453840620a",
@@ -1656,21 +1641,6 @@
       "fileSize": 19123767
     },
     {
-      "path": "mods/DAP ur Homie!2.2.1.jar",
-      "hashes": {
-        "sha1": "e692852c66313a766438b605a59e302815fe6837",
-        "sha512": "e22ace17b2944c7596623e81bab90be89b15bb482eaeaffc666a83a573376e8ee1d0836db85548d83ce776f0209c9de162549ee2b9f6fb4497352cce10ca3c1f"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/V3QHTHDA/versions/dfSSTarO/DAP%20ur%20Homie%212.2.1.jar"
-      ],
-      "fileSize": 7117613
-    },
-    {
       "path": "mods/cobbledgacha-neoforge-1.21.1-3.0.3.jar",
       "hashes": {
         "sha1": "a2450dd08503743f4ac313f67f6007f7161afae9",
@@ -1733,6 +1703,6 @@
   ],
   "dependencies": {
     "minecraft": "1.21.1",
-    "neoforge": "21.1.218"
+    "neoforge": "21.1.228"
   }
 }
