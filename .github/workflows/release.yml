@@ -1,0 +1,26 @@
+name: Manual Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version tag (e.g., v1.0.0)'
+        required: true
+        default: 'v1.0.0'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build .mrpack
+        run: zip -r CobbleCreate.mrpack modrinth.index.json overrides/
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.inputs.version }}
+          files: CobbleCreate.mrpack
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
