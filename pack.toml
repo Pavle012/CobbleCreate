@@ -1,0 +1,22 @@
+[config]
+[config.metadata]
+name = "CobbleCreate"
+author = "Pavle012"
+version = "1.5"
+description = "Pokemon with Create - A curated modpack blending Create engineering with Cobblemon"
+
+[config.options]
+acceptable-game-versions = ["1.21.1"]
+neoforge-version = ""
+
+[index]
+file = "modrinth.index.json"
+hash-format = "sha512"
+hash = ""
+
+[package]
+name = "CobbleCreate"
+uid = ""
+
+[versions]
+minecraft = "1.21.1"
